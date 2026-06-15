@@ -10,7 +10,7 @@ export default function AboutUsPage() {
                     <h1>Om os</h1>
                 </div>
 
-                <p>Indsæt de 15 links til medarbejderne her.</p>
+                <p>Indsæt de 15 links til medarbejderne her som component.</p>
 
             </main>
         </section>
