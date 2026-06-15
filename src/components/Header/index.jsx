@@ -18,13 +18,10 @@ export default function Header() {
                 <nav className="header__nav">
                     <ul className="header__nav-list">
                         <li className="header__nav-item">
-                            <Link href="/produkter" className="header__nav-link">Produkter</Link>
+                            <Link href="/keyboard" className="header__nav-link">Keyboard</Link>
                         </li>
                         <li className="header__nav-item">
-                            <Link href="/tastatur" className="header__nav-link">Keyboard</Link>
-                        </li>
-                        <li className="header__nav-item">
-                            <Link href="/" className="header__nav-link">Om os</Link>
+                            <Link href="/om-os" className="header__nav-link">Om os</Link>
                         </li>
                         <li className="header__nav-item">
                             <Link href="/" className="header__nav-link">Kontakt</Link>
